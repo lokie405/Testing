@@ -11,5 +11,6 @@ int field1;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        field1 = 16;
     }
 }
